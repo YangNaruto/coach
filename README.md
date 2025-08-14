@@ -108,3 +108,6 @@ Train RZT model for zero-shot adaptation
 ### Notes
 - A full set of commands can be found in [run.sh](https://github.com/zliucr/coach/blob/master/run.sh)
 - All the models can be downloaded [here](https://drive.google.com/drive/folders/1ydalMtB-hpfS3SIEaR5UbRfEe2m8bFcj?usp=sharing) (Check in the **experiments** folder) to reproduce our results.
+
+## Developer docs
+For a full API reference, examples, and preprocessing details, see `docs/README.md` in this repository.
